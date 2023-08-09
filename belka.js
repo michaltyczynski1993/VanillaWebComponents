@@ -30,7 +30,7 @@ class AehBelka extends HTMLElement{
                 display: flex;
                 flex-direction: row;
                 justify-content: space-between;
-                padding: 1.25rem 5rem;
+                padding: 0.25rem 5rem;
                 background-color: var(--background-color, #c2d1e9);
                 box-shadow: 8px 8px 11px -9px rgba(66, 68, 90, 1);
                 align-items: center;
